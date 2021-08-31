@@ -6,3 +6,4 @@ conversion=$(echo "$inch $ft" | awk '{printf "%.2f \n", $1/$2}')
 echo "Coverted Inches in Feet is : $conversion "
 
 Conflict created in local server (newbranch)
+
